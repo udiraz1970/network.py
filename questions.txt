@@ -1,0 +1,13 @@
+What is the capital of France?:Paris:London:Berlin:Madrid:1
+Which planet is known as the Red Planet?:Earth:Mars:Jupiter:Venus:2
+What is the largest ocean on Earth?:Atlantic Ocean:Indian Ocean:Arctic Ocean:Pacific Ocean:4
+What is the chemical symbol for water?:H2O:O2:CO2:H2:1
+Which country is the largest by land area?:China:United States:Canada:Russia:4
+Who wrote "Romeo and Juliet"?:William Shakespeare:Charles Dickens:Mark Twain:Jane Austen:1
+What is the smallest prime number?:0:1:2:3:3
+Which element has the atomic number 1?:Oxygen:Carbon:Hydrogen:Helium:3
+Which planet is closest to the Sun?:Mars:Earth:Venus:Mercury:4
+Who painted the Mona Lisa?:Vincent van Gogh:Pablo Picasso:Leonardo da Vinci:Michelangelo:3
+In which year did the Titanic sink?:1905:1912:1918:1923:2
+What is the hardest natural substance on Earth?:Gold:Iron:Diamond:Quartz:3
+Which organ in the human body is responsible for pumping blood?:Lungs:Brain:Liver:Heart:4
